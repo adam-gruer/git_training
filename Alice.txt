@@ -5,4 +5,5 @@ Alice likes oranges and apples.
 Alice is not silly.
 Alice has three eyes.
 Alice plays hopscotch.
+Alice plays guitar.
 
