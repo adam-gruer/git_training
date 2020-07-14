@@ -3,5 +3,6 @@ Alice is the best.
 Alice is purple.
 Alice likes oranges and apples.
 Alice is not silly.
-Alice has 3 eyes.
+Alice has three eyes.
 Alice plays hopscotch.
+
